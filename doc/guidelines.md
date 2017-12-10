@@ -608,14 +608,14 @@ Refer to [Variable Names](#variable-names) above.
 ## Macro Names
 
 Macro names should be written in upper case with underscore between words: `MY_MACRO`.
-Keep in mind that macros are not recommanded (See [Preprocessor Macros](#preprocessor-macros)).
+Keep in mind that macros are not recommended (See [Preprocessor Macros](#preprocessor-macros)).
 
 
 # Comments
 
 ## Comment Style
 
-Use `//` for single-line comments and `/* */` for multiline comments outside of function blocks. Small blocks of multiline text can be written as mutliple `//` lines, see an example [in the implementation section](#implementation-comments).
+Use `//` for single-line comments and `/* */` for multiline comments outside of function blocks. Small blocks of multiline text can be written as multiple `//` lines, see an example [in the implementation section](#implementation-comments).
 
 A comment should always start with an upper case letter, and there should be a space after the opening comment syntax.
 
